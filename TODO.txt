@@ -1,0 +1,6 @@
+- Download file .macro dengan parsing QRIS Konten
+- Tambah button widget to Setting Page
+- Tambah Setting Link di Plugin List
+- Logo QRIS di Payment List Setting WooCommerce
+- Parsing Acquirer tag Namanya
+- 

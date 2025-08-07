@@ -1,0 +1,33 @@
+# WordPress
+*.log
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+
+# IDE & System Files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.bak
+*.tmp
+*.sublime*
+
+# Node modules if using any build tools
+node_modules/
+
+# Compiled assets
+*.min.js
+*.min.css
+
+# Environment files
+.env
+.env.*
+!.env.example

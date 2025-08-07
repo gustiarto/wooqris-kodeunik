@@ -1,0 +1,1 @@
+{"globalVariables":[%%WEBHOOK_URL%%],"macro":{"%%API_KEY%%":0,"exportedActionBlocks":[],"forceEvenIfNotEnabledTimestamp":%%HEARTBEAT_URL%%,"%%ACQUIRER_PACKAGE_NAME%%":false,"isExtra":false,"isFavourite":false}}
